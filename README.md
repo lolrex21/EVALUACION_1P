@@ -70,6 +70,7 @@ pull sirve para mandar todos los cambios que se hicieron en forma local a remoto
 
 **📝 Respuesta:**
 
+El archivo gitignore nos sirve para que podamos ignorar un tipo especifico de archivos que uno mismo defina para asi no sobrecargar el repositorios
 <!-- Escribe aquí tu explicación y evidencia para la Pregunta 2 -->
 
 ---
