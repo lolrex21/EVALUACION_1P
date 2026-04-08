@@ -40,6 +40,13 @@
 
 **📝 Respuesta:**
 
+Cuando usamos git clone descarga directamente de forma local el repositorio
+fork crea una copia de un repositorio publico o en el que se tenga permisos a un repositorio personal
+pull sirve para mandar todos los cambios que se hicieron en forma local a remoto.
+
+1. Para obtener este readme se hizo un fork de forma directa en la pagina de github
+2. Para el clone cree un nuevo directorio en mi computadore y escribi git clone "url" para obtener el reposiorio
+3. Se que no estoy directamente en el repositorio original porque ahora tengo el fork dentro de mi repositorio personal
 <!-- Escribe aquí tu respuesta a la Pregunta 1 -->
 
 ---
