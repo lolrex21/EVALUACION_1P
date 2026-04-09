@@ -3,7 +3,7 @@
 ### Carrera de [Nombre de la Carrera]  
 
 **Asignatura:** Manejo y Configuración de Software  
-**Nombre del Estudiante:** ___________________________  
+**Nombre del Estudiante:** Jose Sanchez 
 **Fecha:** ___________________  
 
 ---
