@@ -3,8 +3,8 @@
 ### Carrera de [Nombre de la Carrera]  
 
 **Asignatura:** Manejo y Configuración de Software  
-**Nombre del Estudiante:** ___________________________  
-**Fecha:** ___________________  
+**Nombre del Estudiante:** Jose Sanchez 
+**Fecha:** 08/04/2026 
 
 ---
 
@@ -40,6 +40,13 @@
 
 **📝 Respuesta:**
 
+Cuando usamos git clone descarga directamente de forma local el repositorio
+fork crea una copia de un repositorio publico o en el que se tenga permisos a un repositorio personal
+pull sirve para mandar todos los cambios que se hicieron en forma local a remoto.
+
+1. Para obtener este readme se hizo un fork de forma directa en la pagina de github
+2. Para el clone cree un nuevo directorio en mi computadore y escribi git clone "url" para obtener el reposiorio
+3. Se que no estoy directamente en el repositorio original porque ahora tengo el fork dentro de mi repositorio personal
 <!-- Escribe aquí tu respuesta a la Pregunta 1 -->
 
 ---
@@ -63,6 +70,7 @@
 
 **📝 Respuesta:**
 
+El archivo gitignore nos sirve para que podamos ignorar un tipo especifico de archivos que uno mismo defina para asi no sobrecargar el repositorios
 <!-- Escribe aquí tu explicación y evidencia para la Pregunta 2 -->
 
 ---
@@ -92,6 +100,14 @@
 - El flujo debe respetar la estructura de Git Flow con las ramas `develop` y `main`.
 
 **📝 Respuesta:**
+git flow init
+git flow feature start ingresar-encabezado
+git add .
+git commit -m
+git flow feature finish ingresar-encabezado
+Primero iniciamos el flujo con init y se crea un ambiente donde se crean ramas temporales para feature, hotfix, support, etc; continuamos con feature start donde se crea la rama donde se trabaja los cambios como normalmente se trbaja y feature finish para cerrar las ramas y solo quedardos con todos los cambios realizados para poder hacer push de los cambios
+
+En un entorno colaborativo es bastante util ya que deja el repositorio limpio y sin rama muertas que no se usan manteniendo un orden claro para los desarrolladores
 
 <!-- Escribe aquí tu respuesta completa a la Pregunta 3 -->
 
@@ -123,6 +139,9 @@
 
 **📝 Respuesta:**
 
+El PR sirve para tener un tracking de los cambios que se vayan a pasar dentro de un repositorio
+Es importante revisarlo ya que puede contener errores de syntax o linter, como tambien puede que falte algun feature
+Se suele dar observaciones de mejora de de delacaraciones de var, activar linters, evitar repeticion de codigo
 <!-- Escribe aquí tu respuesta completa a la Pregunta 4 -->
 
 ---
