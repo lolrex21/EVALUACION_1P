@@ -139,6 +139,9 @@ En un entorno colaborativo es bastante util ya que deja el repositorio limpio y 
 
 **📝 Respuesta:**
 
+El PR sirve para tener un tracking de los cambios que se vayan a pasar dentro de un repositorio
+Es importante revisarlo ya que puede contener errores de syntax o linter, como tambien puede que falte algun feature
+Se suele dar observaciones de mejora de de delacaraciones de var, activar linters, evitar repeticion de codigo
 <!-- Escribe aquí tu respuesta completa a la Pregunta 4 -->
 
 ---
