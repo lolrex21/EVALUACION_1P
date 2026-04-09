@@ -174,6 +174,8 @@ Se suele dar observaciones de mejora de de delacaraciones de var, activar linter
 - Una breve explicación de qué es un conflicto en Git y por qué ocurrió en este caso.
 
 **📝 Respuesta:**
+Las ramas se crean a partir de develop con el comando git checkout -b "rama"
+El conflicto se genera porque al ser el mismo archivo con diferente contenido git no sabe cual de los dos usar y hay que hacer el arreglo de forma manual
 
 <!-- Escribe aquí tu respuesta completa a la Pregunta 5 -->
 
