@@ -142,6 +142,7 @@ En un entorno colaborativo es bastante util ya que deja el repositorio limpio y 
 El PR sirve para tener un tracking de los cambios que se vayan a pasar dentro de un repositorio
 Es importante revisarlo ya que puede contener errores de syntax o linter, como tambien puede que falte algun feature
 Se suele dar observaciones de mejora de de delacaraciones de var, activar linters, evitar repeticion de codigo
+https://github.com/lolrex21/EVALUACION_1P/pull/1
 <!-- Escribe aquí tu respuesta completa a la Pregunta 4 -->
 
 ---
@@ -176,6 +177,7 @@ Se suele dar observaciones de mejora de de delacaraciones de var, activar linter
 **📝 Respuesta:**
 Las ramas se crean a partir de develop con el comando git checkout -b "rama"
 El conflicto se genera porque al ser el mismo archivo con diferente contenido git no sabe cual de los dos usar y hay que hacer el arreglo de forma manual
+https://github.com/lolrex21/EVALUACION_1P/pull/2/commits
 
 <!-- Escribe aquí tu respuesta completa a la Pregunta 5 -->
 
