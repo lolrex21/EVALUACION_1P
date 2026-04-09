@@ -204,5 +204,7 @@ https://github.com/lolrex21/EVALUACION_1P/pull/2/commits
 - Si hace falta agregar alguna evidencia adicional, agregue un tag adicional que sea `Version Final`.
 
 **📝 Respuesta:**
+Se realizo un flujo de trabajo completo donde se crea rama y se fusionan, se indentifica cada cambio con tags manteniendo un flujo ordenado
 
+El versionamiento semántico es un sistema para numerar versiones de software de forma clara y ordenada, usando tres componentes: MAJOR.MINOR.PATCH; por ejemplo, en la versión 2.5.1, el 2 es MAJOR y cambia cuando hay modificaciones grandes o incompatibles, como pasar de 1.4.2 a 2.0.0; el 5 es MINOR y aumenta cuando se agregan nuevas funciones sin afectar lo anterior, como de 1.4.2 a 1.5.0; y el 1 es PATCH, que se usa para corregir errores o hacer ajustes pequeños, como de 1.4.2 a 1.4.3.
 <!-- Escribe aquí tu respuesta completa a la Pregunta 6 -->
