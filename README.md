@@ -4,7 +4,7 @@
 
 **Asignatura:** Manejo y Configuración de Software  
 **Nombre del Estudiante:** Jose Sanchez 
-**Fecha:** ___________________  
+**Fecha:** 08/04/2026 
 
 ---
 
@@ -100,6 +100,14 @@ El archivo gitignore nos sirve para que podamos ignorar un tipo especifico de ar
 - El flujo debe respetar la estructura de Git Flow con las ramas `develop` y `main`.
 
 **📝 Respuesta:**
+git flow init
+git flow feature start ingresar-encabezado
+git add .
+git commit -m
+git flow feature finish ingresar-encabezado
+Primero iniciamos el flujo con init y se crea un ambiente donde se crean ramas temporales para feature, hotfix, support, etc; continuamos con feature start donde se crea la rama donde se trabaja los cambios como normalmente se trbaja y feature finish para cerrar las ramas y solo quedardos con todos los cambios realizados para poder hacer push de los cambios
+
+En un entorno colaborativo es bastante util ya que deja el repositorio limpio y sin rama muertas que no se usan manteniendo un orden claro para los desarrolladores
 
 <!-- Escribe aquí tu respuesta completa a la Pregunta 3 -->
 
